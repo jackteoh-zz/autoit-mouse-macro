@@ -1,5 +1,4 @@
 start ()
-
 Func start ()
    While 1
 	  ; sleep for 5 second
